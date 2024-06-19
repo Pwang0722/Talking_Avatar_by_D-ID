@@ -14,7 +14,7 @@
 
 ---
 
-- Generated avatar images using [Leonardo](https://leonardo.ai/), created text-to-speech soundtracks with [VoiceOverMaker](https://voiceovermaker.com/), and combined the images and soundtracks to make a talking avatar in [D-ID](https://www.d-id.com/).
+- Generated avatar images using [Leonardo](https://leonardo.ai/), created text-to-speech soundtracks with [VoiceOverMaker](https://voiceovermaker.com/), and combined the images and soundtracks to make talking avatars in [D-ID](https://www.d-id.com/).
 - For personal use only, not for commercial purposes.
 
 
