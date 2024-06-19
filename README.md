@@ -14,22 +14,9 @@
 
 ---
 
-- Used [FaceFusion](https://docs.facefusion.io/) Desktop(Python3) and [Colab](https://colab.research.google.com/github/ardha27/FaceFusion-Colab/blob/main/FaceFusion_Colab.ipynb) to render the clips and edited them in Premiere Pro and After Effects.
+- Generated avatar images using [Leonardo](https://leonardo.ai/), created text-to-speech soundtracks with [VoiceOverMaker](https://voiceovermaker.com/), and combined the images and soundtracks to make a talking avatar in [D-ID](https://www.d-id.com/).
 - For personal use only, not for commercial purposes.
 
----
-
-<div align="center">
-K-Drama Tale of the Nine Tailed
-</div>
-<p align="center">
-  <img src="https://github.com/Pwang0722/test/assets/136808262/4015e22b-0823-479b-8692-fbed8533e2eb" width="35%" style="display:inline-block">
-  <img src="https://github.com/Pwang0722/test/assets/136808262/69de4394-590a-45fb-951d-6bcf6eed29ae" width="35%" style="display:inline-block">
-</p>
-<p align="center">
-  <img src="https://github.com/Pwang0722/test/assets/136808262/a07f8f07-e2df-477e-b026-8edd5778eb60" width="35%" style="display:inline-block;">
-  <img src="https://github.com/Pwang0722/test/assets/136808262/3be2995f-2cfe-4ecd-b250-105c3d930de9" width="35%" style="display:inline-block;">
-<p style="margin-bottom: 20px;"></p>
 
 
 
