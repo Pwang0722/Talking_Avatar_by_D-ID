@@ -1,4 +1,4 @@
-<h2 align="center">Talking Avatars Video by AI tools</h1>
+<h2 align="center">Talking Avatar Video by AI tools</h1>
 </div>
 <div align="center">
 ↓↓↓ WATCH FULL VIDEO ↓↓↓
