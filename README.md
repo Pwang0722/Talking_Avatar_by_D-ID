@@ -4,7 +4,7 @@
 ↓↓↓ WATCH FULL VIDEO ↓↓↓
 </div>
 <div align="center">
-  <a href="http://u.pc.cd/WcS7">
+  <a href="https://youtu.be/aCdrZU12Rjk">
     <img src="https://github.com/Pwang0722/Talking_Avatar_by_D-ID/assets/136808262/0ec29cf0-dd5b-4a8a-831f-1826c7a0ccf3" alt="Watch the video">
   </a>
 </div>
